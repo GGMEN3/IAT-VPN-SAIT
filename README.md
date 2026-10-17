@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="ru" class="scroll-smooth dark">
 <head>
   <meta charset="UTF-8" />
